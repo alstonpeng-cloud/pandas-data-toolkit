@@ -1,0 +1,7 @@
+# 统一换行符，避免 Windows 下提交 CRLF
+* text=auto eol=lf
+
+# Python 与文档按文本处理
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
