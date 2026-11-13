@@ -1,0 +1,9 @@
+# 必需依赖
+pandas>=1.5
+numpy>=1.23
+
+# 读取 parquet 需要
+pyarrow>=10.0
+
+# 读取 .xlsx 需要（.xls 另需 xlrd）
+openpyxl>=3.0
